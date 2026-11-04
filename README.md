@@ -35,10 +35,11 @@ pip install openpyxl
 2. Open the project folder in VS Code.
 3. Install the required library.
 4. Run the following command:
-<img width="1056" height="962" alt="image" src="https://github.com/user-attachments/assets/72fe3824-dc5b-4189-b3ee-23b7672d3ac5" />
-```bash
+  ```bash
 python billing_system.py
 ```
+   
+<img width="1056" height="962" alt="image" src="https://github.com/user-attachments/assets/72fe3824-dc5b-4189-b3ee-23b7672d3ac5" />
 
 ## 🧮 Billing Calculation
 
