@@ -52,7 +52,11 @@ The system calculates:
 ## 📊 Export Options
 
 - Excel Export: Saves billing details in `.xlsx` format.
+<img width="787" height="457" alt="image" src="https://github.com/user-attachments/assets/38e8cc37-97da-4666-a322-77d427408991" />
+
 - Text Export: Saves the generated invoice in `.txt` format.
+<img width="522" height="467" alt="image" src="https://github.com/user-attachments/assets/09bdf444-d76f-4bab-825c-bd28ee30fb7d" />
+
 
 ## 🎯 Project Objective
 
