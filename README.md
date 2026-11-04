@@ -1,2 +1,69 @@
-# Billing-System
-A Python-based desktop Billing System built using Tkinter. It allows users to manage product billing, calculate discounts and GST automatically, generate bills, and export billing records to Excel (.xlsx) and TXT files.
+# 🛒 MIRA MOBILE SHOP – Billing System
+
+A simple and user-friendly **Billing Management System** developed using Python and Tkinter. This application helps manage product billing, calculate discounts, apply GST, generate invoices, and save billing records in Excel and text formats.
+
+## 🚀 Features
+
+- Add products with item name, quantity, and price.
+- Automatically calculate subtotal.
+- Apply custom discount percentages.
+- Automatically calculate 18% GST.
+- Calculate the final grand total.
+- Generate professional bills.
+- Export bills to Excel (`.xlsx`) format.
+- Save bills as text (`.txt`) files.
+- Clear all billing details with one click.
+
+## 🛠️ Technologies Used
+
+- **Python** – Main programming language.
+- **Tkinter** – Graphical User Interface (GUI).
+- **OpenPyXL** – Excel file generation.
+- **Datetime** – Date and time management.
+
+## 📦 Installation
+
+Install the required library:
+
+```bash
+pip install openpyxl
+```
+
+## ▶️ How to Run
+
+1. Clone this repository.
+2. Open the project folder in VS Code.
+3. Install the required library.
+4. Run the following command:
+
+```bash
+python billing_system.py
+```
+
+## 🧮 Billing Calculation
+
+The system calculates:
+
+- Subtotal = Quantity × Price
+- Discount = Subtotal × Discount Percentage / 100
+- GST = 18% of the discounted amount
+- Grand Total = Discounted Amount + GST
+
+## 📊 Export Options
+
+- Excel Export: Saves billing details in `.xlsx` format.
+- Text Export: Saves the generated invoice in `.txt` format.
+
+## 🎯 Project Objective
+
+The main objective of this project is to develop a simple desktop-based billing application that reduces manual calculation errors and makes the billing process faster and easier.
+
+## 👨‍💻 Developer
+
+**Developed by: Injamul Haque**
+
+BCA Student | Python Developer | Aspiring Software Developer
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository!
