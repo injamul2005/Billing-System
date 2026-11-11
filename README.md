@@ -66,6 +66,7 @@ The main objective of this project is to develop a simple desktop-based billing 
 ## 👨‍💻 Developer
 
 **Developed by: Injamul Haque**
+**co-Developed by: Tithi Ghosh**
 
 BCA Student | Python Developer | Aspiring Software Developer
 
